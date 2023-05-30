@@ -7,5 +7,5 @@ My name is Georgiy Kizyakovskiy. I'm from Moscow, Russia. I'm student of politic
 - 👯 I’m looking to collaborate on some projects for the good of society, especially in political sphere.
 - 🤔 Сourses, that I completed:
   - Statistics (Stepic)
-  - Data Analytic (Yandex.Practicum)
+  - Data Analyst (Yandex.Practicum)
   - The Basics of Machine Learning (https://openedu.ru)
